@@ -5,3 +5,14 @@
 - 活性: <2014-11-23 Sun>
 
 - 非活性: [2014-11-23 Sun]
+
+** 画像
+
+- クエリ付き
+  [[https://coveralls.io/r/HKey/el-init?branch=master][https://coveralls.io/repos/HKey/el-init/badge.svg?branch=master]]
+- クエリなし
+  [[https://coveralls.io/r/HKey/el-init?branch=master][https://coveralls.io/repos/HKey/el-init/badge.svg]]
+- クエリ付き、 =file:= 付き
+  [[https://coveralls.io/r/HKey/el-init?branch=master][file:https://coveralls.io/repos/HKey/el-init/badge.svg?branch=master]]
+- クエリなし、 =file:= なし
+  [[https://coveralls.io/r/HKey/el-init?branch=master][https://coveralls.io/repos/HKey/el-init/badge.svg]]
